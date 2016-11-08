@@ -1,6 +1,5 @@
 primes=[]
 counter=1
-a=1
 while True:
     counter+=1
     checker=0
